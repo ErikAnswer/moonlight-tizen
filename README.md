@@ -1,5 +1,8 @@
 # 🌙 Moonlight Tizen
 
+> [!NOTE]
+> This is a personal fork of [brightcraft/moonlight-tizen](https://github.com/brightcraft/moonlight-tizen), created and maintained by [brightcraft](https://github.com/brightcraft) and its contributors, to whom all credit for the application belongs. The `feat/level-5-2-high-frame-rate` branch carries one experimental change: HEVC and AV1 streams above 60 FPS are announced to the TV as codec level 5.2 instead of 5.1.
+
 [![Release Version](https://img.shields.io/github/v/release/brightcraft/moonlight-tizen?style=for-the-badge&logo=github)](https://github.com/brightcraft/moonlight-tizen/releases/latest)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/brightcraft/moonlight-tizen/release-stable.yml?branch=master&style=for-the-badge&logo=docker)](https://github.com/brightcraft/moonlight-tizen/actions/workflows/release-stable.yml)
 [![Total Downloads](https://img.shields.io/github/downloads/brightcraft/moonlight-tizen/total?style=for-the-badge&logo=github)](https://github.com/brightcraft/moonlight-tizen/releases)
